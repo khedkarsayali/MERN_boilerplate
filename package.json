@@ -18,8 +18,10 @@
   },
   "homepage": "https://github.com/khedkarsayali/MERN_boilerplate#readme",
   "dependencies": {
+    "connect-flash": "^0.1.1",
     "ejs": "^3.1.10",
     "express": "^4.21.2",
+    "express-session": "^1.18.1",
     "mongoose": "^8.12.1"
   }
 }
